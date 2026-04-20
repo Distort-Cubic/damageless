@@ -1,2 +1,7 @@
 - Simulate being able to reboot a huge number of times in Fractal Block World
-- Taking any amount of damage will instantly kill you. 
+- Taking any amount of damage will instantly kill you.
+- Buy Station, Buy Nuke, and Black Markets instantly refill the available weapons. 
+- Picking an Upgrade that when picked enough times gives other upgrades as well will give a huge number of those upgrades as well.
+- EMP Radius is a bit lower because of a bug(?)
+- You cannot gain xp.
+- Warning message upon loading with the mod (Press 1 to enable the rest of the features). 
