@@ -1,0 +1,8 @@
+This is a test for "damageless".
+
+^xFF0000Taking any amount of damage will instantly kill the player.^!
+
+The player gets a "safe maximum" amount of an upgrade after each pickup upgrade, but can no longer level up to claim bonuses.
+
+The first time you load the mod in a new player, a warning will be shown on whether you would actually like to enable damageless.
+After getting more than 200 gold, your gold will effectively become infinite. 
