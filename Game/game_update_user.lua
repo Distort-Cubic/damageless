@@ -47,7 +47,7 @@ function p.update_discrete_post()
         -- 0-9
         local max_ammo_regen_level = {nil, imax, nil, nil, nil, nil, nil, nil, nil, nil}
         local max_ammo_level = {imax, imax, imax, imax, imax, imax, imax, imax, imax, imax}
-        local max_damage_level = {imax, imax, imax, imax, imax, imax, imax, imax, imax, imax}
+        local max_damage_level = {MAX, MAX, MAX, MAX, MAX, MAX, MAX, MAX, MAX, MAX}
         local max_fire_period_level = {nil, 16, 12, nil, 16, 56, 26, 14, nil, nil}
         local max_speed_level = {imax, 46, 11, nil, imax, 46, 100, nil, nil, imax}
         local max_freeze_time_level = {nil, nil, nil, 36, nil, nil, nil, nil, imax, nil}
