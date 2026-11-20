@@ -37,8 +37,8 @@ function p.update_discrete_post()
             ga_kill_player()
         end
         -- make sure i check for caps. 
-        -- max signed integer
-        local MAX = 9223372036854775807
+
+        local MAX = 922337203685477580
         -- a reasonable max that probably wont crash the game? use for speed level if needed. 
         local imax = 300000000
         -- debug kinda 
